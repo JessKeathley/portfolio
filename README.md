@@ -26,3 +26,10 @@
     - Trained 8+ new clinicians on use of point of service documentation through homecare-homebase application, contributing to an increase in overall team 
       efficiency.
 
+### Skills
+- Python Programming language (NumPy, Pandas, Scikit_learn, Matplotlib)
+- R Programming language (tidyverse, dplyr, ggplot)
+- SQL (Postgresql, PGAdmin)
+- Time Series Forecasting
+-  Data Cleaning and manipulation
+-  Statistical Analysis and Modeling
